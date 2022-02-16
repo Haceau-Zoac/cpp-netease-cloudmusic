@@ -1,0 +1,11 @@
+[
+{
+  "directory": "C:\\UserFiles\\Projects\\cpp-cloudmusiclib",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/W3", "/Ox", "/fp:fast", "/std:c++17", "/Isrc", "/IC:\\Users\\Haceau\\AppData\\Local\\.xmake\\packages\\c\\cpp-httplib\\0.9.2\\e21a95d7c09d41e094351f3afa30e374\\include", "/IC:\\Users\\Haceau\\AppData\\Local\\.xmake\\packages\\n\\nlohmann_json\\v3.10.0\\5a8a906ed9764fc4b034681a032ea895\\include", "/DNDEBUG", "/Fobuild\\.objs\\cpp-cloudmusiclib_demo\\windows\\x64\\release\\src\\demo\\main.cpp.obj", "src\\demo\\main.cpp"],
+  "file": "src\\demo\\main.cpp"
+},
+{
+  "directory": "C:\\UserFiles\\Projects\\cpp-cloudmusiclib",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/W3", "/Ox", "/fp:fast", "/std:c++17", "/IC:\\Users\\Haceau\\AppData\\Local\\.xmake\\packages\\c\\cpp-httplib\\0.9.2\\e21a95d7c09d41e094351f3afa30e374\\include", "/IC:\\Users\\Haceau\\AppData\\Local\\.xmake\\packages\\n\\nlohmann_json\\v3.10.0\\5a8a906ed9764fc4b034681a032ea895\\include", "/DNDEBUG", "/Fobuild\\.objs\\cpp-cloudmusiclib\\windows\\x64\\release\\src\\netease-cloudmusic.cpp.obj", "src\\netease-cloudmusic.cpp"],
+  "file": "src\\netease-cloudmusic.cpp"
+}]
